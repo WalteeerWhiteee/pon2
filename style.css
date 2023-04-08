@@ -1,4 +1,8 @@
+body{
+    background-color: black;
+}
 .text{
+    color: white;
     height: 50px;
     position: relative;
     overflow: hidden;
@@ -9,6 +13,9 @@
 }
 .text-open .toggle{
     display: none;
+}
+.p{
+    color: white;
 }
 .toggle{
     /*background-image: -webkit-linear-gradient(rgba(255,255,255,0)0%, #fff 100%);*/
